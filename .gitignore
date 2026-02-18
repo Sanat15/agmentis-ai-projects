@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (keep folder structure, exclude actual data)
+data/pdfs/*.pdf
+data/qdrant_db/*
+!data/pdfs/.gitkeep
+!data/qdrant_db/.gitkeep
+
+# Reports and presentation (optional - remove these lines if you want to include them)
+# REPORT.tex
+# REPORT.md
+# PRESENTATION.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
