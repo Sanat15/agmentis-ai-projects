@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "query": "What cryptocurrency payment options are accepted?",
+    "description": "Cryptocurrency unlikely in real estate documents",
+    "category": "irrelevant"
+  },
+  {
+    "id": 2,
+    "query": "What is the restaurant menu?",
+    "description": "Restaurant unrelated to real estate",
+    "category": "irrelevant"
+  },
+  {
+    "id": 3,
+    "query": "Who won the 2024 election?",
+    "description": "Politics unrelated to property",
+    "category": "irrelevant"
+  },
+  {
+    "id": 4,
+    "query": "What are the airline flight schedules?",
+    "description": "Air travel unrelated to property",
+    "category": "irrelevant"
+  },
+  {
+    "id": 5,
+    "query": "How do I fix my car engine?",
+    "description": "Auto repair unrelated to property",
+    "category": "irrelevant"
+  },
+  {
+    "id": 6,
+    "query": "What is the weather forecast for next week?",
+    "description": "Weather unrelated to property documents",
+    "category": "irrelevant"
+  },
+  {
+    "id": 7,
+    "query": "What is the recipe for chocolate cake?",
+    "description": "Cooking unrelated to property",
+    "category": "irrelevant"
+  },
+  {
+    "id": 8,
+    "query": "What stocks should I buy?",
+    "description": "Stock market unrelated to property",
+    "category": "irrelevant"
+  },
+  {
+    "id": 9,
+    "query": "How do I learn French?",
+    "description": "Language learning unrelated to property",
+    "category": "irrelevant"
+  },
+  {
+    "id": 10,
+    "query": "What is the latest sports score?",
+    "description": "Sports unrelated to property",
+    "category": "irrelevant"
+  }
+]

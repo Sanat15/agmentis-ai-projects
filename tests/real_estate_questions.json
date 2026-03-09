@@ -1,0 +1,166 @@
+{
+  "sections": {
+    "A": {
+      "name": "222 Rajpur, Dehradun",
+      "questions": [
+        {"id": "A1", "query": "For 222 Rajpur, Dehradun, how many total residences are planned and over how many acres is the project spread?", "category": "general"},
+        {"id": "A2", "query": "At 222 Rajpur, what types of residences are available?", "category": "general"},
+        {"id": "A3", "query": "Is 222 Rajpur adjacent to any forest area? If yes, which one?", "category": "general"},
+        {"id": "A4", "query": "What are the views offered from residences at 222 Rajpur, Dehradun?", "category": "general"},
+        {"id": "A5", "query": "How far is Jolly Grant Airport from 222 Rajpur, Dehradun?", "category": "location"},
+        {"id": "A6", "query": "What is the distance between 222 Rajpur and The Doon School?", "category": "location"},
+        {"id": "A7", "query": "How long does it take to reach Pacific Mall from 222 Rajpur?", "category": "location"},
+        {"id": "A8", "query": "Is 222 Rajpur close to Max Super Specialty Hospital?", "category": "location"},
+        {"id": "A9", "query": "How many Townhouse units are available at 222 Rajpur?", "category": "townhouse"},
+        {"id": "A10", "query": "What is the built-up area and carpet area of a Townhouse at 222 Rajpur?", "category": "townhouse"},
+        {"id": "A11", "query": "Does the Townhouse at 222 Rajpur include a sky court?", "category": "townhouse"},
+        {"id": "A12", "query": "What is the ceiling height in the Townhouse units at 222 Rajpur?", "category": "townhouse"},
+        {"id": "A13", "query": "How many parking spaces are provided with each Townhouse at 222 Rajpur?", "category": "townhouse"},
+        {"id": "A14", "query": "How many Courtyard Villas are available at 222 Rajpur?", "category": "courtyard_villas"},
+        {"id": "A15", "query": "What is the plot size range for Courtyard Villas at 222 Rajpur?", "category": "courtyard_villas"},
+        {"id": "A16", "query": "Do the Courtyard Villas at 222 Rajpur include staff accommodation?", "category": "courtyard_villas"},
+        {"id": "A17", "query": "What is the terrace size of a Courtyard Villa at 222 Rajpur?", "category": "courtyard_villas"},
+        {"id": "A18", "query": "How many Forest Villas are available at 222 Rajpur?", "category": "forest_villas"},
+        {"id": "A19", "query": "What is the built-up area of a Forest Villa at 222 Rajpur?", "category": "forest_villas"},
+        {"id": "A20", "query": "Do Forest Villas at 222 Rajpur have private elevators?", "category": "forest_villas"},
+        {"id": "A21", "query": "What special landscape feature is included in the lower ground floor of Forest Villas at 222 Rajpur?", "category": "forest_villas"},
+        {"id": "A22", "query": "Does 222 Rajpur provide round-the-clock security?", "category": "amenities"},
+        {"id": "A23", "query": "What wellness or nature-focused amenities are offered at 222 Rajpur?", "category": "amenities"},
+        {"id": "A24", "query": "Does 222 Rajpur offer power backup and uninterrupted water supply?", "category": "amenities"},
+        {"id": "A25", "query": "Is there a private orchard at 222 Rajpur?", "category": "amenities"}
+      ]
+    },
+    "B": {
+      "name": "Max Towers, Noida",
+      "questions": [
+        {"id": "B1", "query": "What is the total super built-up area of Max Towers, Noida?", "category": "overview"},
+        {"id": "B2", "query": "How many office floors and amenity floors are there in Max Towers?", "category": "overview"},
+        {"id": "B3", "query": "What is the typical floor plate size at Max Towers?", "category": "overview"},
+        {"id": "B4", "query": "What is the floor-to-floor height at Max Towers?", "category": "overview"},
+        {"id": "B5", "query": "What green rating has Max Towers achieved?", "category": "sustainability"},
+        {"id": "B6", "query": "Does Max Towers offer on-site wastewater treatment?", "category": "sustainability"},
+        {"id": "B7", "query": "What is the coefficient of performance (COP) of the chiller system at Max Towers?", "category": "sustainability"},
+        {"id": "B8", "query": "Does Max Towers support electric vehicle parking?", "category": "sustainability"},
+        {"id": "B9", "query": "Does Max Towers have a swimming pool?", "category": "wellness"},
+        {"id": "B10", "query": "What kind of fitness facilities are available at Max Towers?", "category": "wellness"},
+        {"id": "B11", "query": "Does Max Towers provide daycare facilities?", "category": "wellness"},
+        {"id": "B12", "query": "What air treatment system is used in Max Towers?", "category": "wellness"},
+        {"id": "B13", "query": "Where is Max Towers located?", "category": "location"},
+        {"id": "B14", "query": "Is Max Towers within walking distance of a metro station?", "category": "location"},
+        {"id": "B15", "query": "Does Max Towers have direct access to the DND Flyway?", "category": "location"},
+        {"id": "B16", "query": "What type of façade glass is used in Max Towers?", "category": "design"},
+        {"id": "B17", "query": "What is the solar heat gain coefficient of the façade at Max Towers?", "category": "design"},
+        {"id": "B18", "query": "What percentage of regular occupied space at Max Towers gets line-of-sight to the outside?", "category": "design"}
+      ]
+    },
+    "C": {
+      "name": "Max House, Okhla",
+      "questions": [
+        {"id": "C1", "query": "What is the total super built-up area of Max House, Okhla?", "category": "overview"},
+        {"id": "C2", "query": "How many tenant floors are there in Max House?", "category": "overview"},
+        {"id": "C3", "query": "What is the typical floor plate size at Max House?", "category": "overview"},
+        {"id": "C4", "query": "What is the green rating of Max House?", "category": "overview"},
+        {"id": "C5", "query": "How far is Max House, Okhla from the Okhla NSIC Metro Station?", "category": "location"},
+        {"id": "C6", "query": "How far is Max House from IGI Airport?", "category": "location"},
+        {"id": "C7", "query": "Is Max House within walking distance of a metro station?", "category": "location"},
+        {"id": "C8", "query": "What façade material is used in Max House?", "category": "design"},
+        {"id": "C9", "query": "What is the floor-to-ceiling height at Max House?", "category": "design"},
+        {"id": "C10", "query": "Does Max House use double-glazed windows?", "category": "design"},
+        {"id": "C11", "query": "What air treatment technology is used in Max House?", "category": "sustainability"},
+        {"id": "C12", "query": "Is Max House LEED certified?", "category": "sustainability"},
+        {"id": "C13", "query": "Does Max House incorporate biophilic design principles?", "category": "design"}
+      ]
+    },
+    "D": {
+      "name": "Cross-Property Comparison",
+      "questions": [
+        {"id": "D1", "query": "Which property among 222 Rajpur, Max Towers, and Max House is purely residential?", "category": "comparison"},
+        {"id": "D2", "query": "Which property is located in Dehradun: 222 Rajpur or Max Towers?", "category": "comparison"},
+        {"id": "D3", "query": "Between Max Towers and Max House, which one has a higher LEED certification?", "category": "comparison"},
+        {"id": "D4", "query": "Compare the typical floor plate size of Max Towers and Max House.", "category": "comparison"},
+        {"id": "D5", "query": "Which property has a larger total built-up area: Max Towers or Max House?", "category": "comparison"},
+        {"id": "D6", "query": "Which property has more tenant floors: Max Towers or Max House?", "category": "comparison"},
+        {"id": "D7", "query": "Which property is closer to a metro station: Max House or Max Towers?", "category": "comparison"},
+        {"id": "D8", "query": "Between 222 Rajpur and Max House, which property is closer to an airport?", "category": "comparison"},
+        {"id": "D9", "query": "Which property offers direct access to the DND Flyway: Max Towers or Max House?", "category": "comparison"},
+        {"id": "D10", "query": "Which property has LEED Platinum certification: Max Towers or Max House?", "category": "comparison"},
+        {"id": "D11", "query": "Which properties use advanced air treatment systems: Max Towers, Max House, or both?", "category": "comparison"},
+        {"id": "D12", "query": "Which property offers on-site wastewater treatment: Max Towers or Max House?", "category": "comparison"},
+        {"id": "D13", "query": "Which property offers a swimming pool: Max Towers or Max House?", "category": "comparison"},
+        {"id": "D14", "query": "Does 222 Rajpur offer wellness amenities comparable to Max Towers?", "category": "comparison"},
+        {"id": "D15", "query": "Which property explicitly mentions decompression spaces: Max Towers or Max House?", "category": "comparison"}
+      ]
+    },
+    "E": {
+      "name": "Real-World Client Simulation",
+      "questions": [
+        {"id": "E1", "query": "I'm looking for a 4-bedroom villa with staff accommodation in 222 Rajpur — which unit type should I consider?", "category": "client"},
+        {"id": "E2", "query": "My company needs a 25,000 sq. ft. office in Noida — can Max Towers accommodate this on a single floor?", "category": "client"},
+        {"id": "E3", "query": "We want an office in Delhi with LEED Gold certification — is Max House, Okhla suitable?", "category": "client"},
+        {"id": "E4", "query": "I want a residential property near the forest with private garden space — does 222 Rajpur offer this?", "category": "client"},
+        {"id": "E5", "query": "We are a wellness-focused company — between Max Towers and Max House, which better supports employee wellbeing?", "category": "client"},
+        {"id": "E6", "query": "I need an office within walking distance of the metro in Delhi — is Max House a good option?", "category": "client"},
+        {"id": "E7", "query": "Which property among 222 Rajpur, Max Towers, and Max House offers private elevators?", "category": "client"},
+        {"id": "E8", "query": "If sustainability is a top priority, should I choose Max Towers or Max House?", "category": "client"},
+        {"id": "E9", "query": "I need a property with daycare facilities — which of these three properties provides that?", "category": "client"}
+      ]
+    },
+    "F": {
+      "name": "Paraphrase Robustness",
+      "questions": [
+        {"id": "F1", "query": "Which of the three developments is a housing project rather than an office building?", "category": "paraphrase"},
+        {"id": "F2", "query": "Identify the project that is not meant for commercial office use.", "category": "paraphrase"},
+        {"id": "F3", "query": "Among the three properties, which one is exclusively residential in nature?", "category": "paraphrase"},
+        {"id": "F4", "query": "Between Max Towers and Max House, which holds the higher level of LEED certification?", "category": "paraphrase"},
+        {"id": "F5", "query": "If sustainability certification level is the deciding factor, which property ranks highest?", "category": "paraphrase"},
+        {"id": "F6", "query": "Which development has achieved Platinum-level green certification?", "category": "paraphrase"},
+        {"id": "F7", "query": "Which office property can employees walk to from a metro station?", "category": "paraphrase"},
+        {"id": "F8", "query": "Identify the development located within walking distance of a metro stop.", "category": "paraphrase"},
+        {"id": "F9", "query": "Between the Noida and Okhla projects, which one offers closer metro access?", "category": "paraphrase"},
+        {"id": "F10", "query": "Which project is larger in overall constructed area: Max Towers or Max House?", "category": "paraphrase"},
+        {"id": "F11", "query": "Between the Delhi and Noida office developments, which spans more total square footage?", "category": "paraphrase"},
+        {"id": "F12", "query": "Which property has the greater overall scale in terms of built-up space?", "category": "paraphrase"},
+        {"id": "F13", "query": "Which property includes an indoor swimming facility?", "category": "paraphrase"},
+        {"id": "F14", "query": "Identify the development that provides decompression or relaxation spaces.", "category": "paraphrase"},
+        {"id": "F15", "query": "If employee wellness is a priority, which property explicitly supports it through facilities?", "category": "paraphrase"}
+      ]
+    },
+    "G": {
+      "name": "Negative/Adversarial Questions",
+      "description": "These answers DO NOT exist in documents. System should return no results or low confidence.",
+      "questions": [
+        {"id": "G1", "query": "Which property among the three includes a helipad?", "category": "negative", "expected": "no_answer"},
+        {"id": "G2", "query": "Which development offers a golf course within the premises?", "category": "negative", "expected": "no_answer"},
+        {"id": "G3", "query": "Is any of the properties located in Mumbai?", "category": "negative", "expected": "no_answer"},
+        {"id": "G4", "query": "Which project provides co-living or serviced apartments?", "category": "negative", "expected": "no_answer"},
+        {"id": "G5", "query": "What is the rental yield percentage of Max Towers?", "category": "negative", "expected": "no_answer"},
+        {"id": "G6", "query": "Which property has a shopping mall attached to it?", "category": "negative", "expected": "no_answer"},
+        {"id": "G7", "query": "Do any of the properties include a five-star hotel?", "category": "negative", "expected": "no_answer"},
+        {"id": "G8", "query": "Which development offers beachfront views?", "category": "negative", "expected": "no_answer"},
+        {"id": "G9", "query": "Is there a data center facility mentioned in any of the properties?", "category": "negative", "expected": "no_answer"},
+        {"id": "G10", "query": "Which property includes an amusement park or entertainment zone?", "category": "negative", "expected": "no_answer"}
+      ]
+    },
+    "H": {
+      "name": "Ambiguous/Clarification Test",
+      "description": "These should trigger clarification or multi-entity responses.",
+      "questions": [
+        {"id": "H1", "query": "What is the total area?", "category": "ambiguous"},
+        {"id": "H2", "query": "How many floors does it have?", "category": "ambiguous"},
+        {"id": "H3", "query": "What certification does it hold?", "category": "ambiguous"},
+        {"id": "H4", "query": "How far is it from the airport?", "category": "ambiguous"},
+        {"id": "H5", "query": "Does it offer parking?", "category": "ambiguous"}
+      ]
+    }
+  },
+  "metadata": {
+    "total_questions": 100,
+    "sections_count": 8,
+    "required_pdfs": [
+      "222 Rajpur Dehradun (residential)",
+      "Max Towers Noida (commercial office)",
+      "Max House Okhla (commercial office)"
+    ],
+    "pdf_source": "https://maxestates.in/downloads"
+  }
+}

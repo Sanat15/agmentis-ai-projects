@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "query": "What is the total square footage of the property?",
+    "expected_keywords": ["square feet", "sq ft", "sqft", "area", "2500", "2,500"],
+    "expected_entities": ["square footage", "property size"],
+    "category": "property_details"
+  },
+  {
+    "id": 2,
+    "query": "How many bedrooms does the property have?",
+    "expected_keywords": ["bedroom", "bedrooms", "3", "three", "bed"],
+    "expected_entities": ["bedroom", "beds"],
+    "category": "property_details"
+  },
+  {
+    "id": 3,
+    "query": "How many bathrooms are in the house?",
+    "expected_keywords": ["bathroom", "bathrooms", "2", "two", "bath"],
+    "expected_entities": ["bathroom", "baths"],
+    "category": "property_details"
+  },
+  {
+    "id": 4,
+    "query": "What is the asking price of the property?",
+    "expected_keywords": ["$", "price", "asking", "450,000", "450000", "cost"],
+    "expected_entities": ["price", "cost", "value"],
+    "category": "pricing"
+  },
+  {
+    "id": 5,
+    "query": "What schools are near the property?",
+    "expected_keywords": ["school", "elementary", "high school", "education", "miles"],
+    "expected_entities": ["school", "education"],
+    "category": "amenities"
+  },
+  {
+    "id": 6,
+    "query": "Is there a swimming pool?",
+    "expected_keywords": ["pool", "swimming", "backyard", "outdoor"],
+    "expected_entities": ["pool", "swimming"],
+    "category": "features"
+  },
+  {
+    "id": 7,
+    "query": "What is the address of the property?",
+    "expected_keywords": ["address", "street", "location", "123", "main"],
+    "expected_entities": ["address", "location"],
+    "category": "location"
+  },
+  {
+    "id": 8,
+    "query": "Are there any shopping centers nearby?",
+    "expected_keywords": ["shopping", "center", "mall", "store", "retail", "mile"],
+    "expected_entities": ["shopping", "retail"],
+    "category": "amenities"
+  },
+  {
+    "id": 9,
+    "query": "What year was the house built?",
+    "expected_keywords": ["built", "year", "constructed", "19", "20"],
+    "expected_entities": ["year", "built"],
+    "category": "property_details"
+  },
+  {
+    "id": 10,
+    "query": "Does the property have a garage?",
+    "expected_keywords": ["garage", "parking", "car", "driveway"],
+    "expected_entities": ["garage", "parking"],
+    "category": "features"
+  },
+  {
+    "id": 11,
+    "query": "What is the lot size?",
+    "expected_keywords": ["lot", "acre", "land", "size", "sqft"],
+    "expected_entities": ["lot size", "acres"],
+    "category": "property_details"
+  },
+  {
+    "id": 12,
+    "query": "Are there any HOA fees?",
+    "expected_keywords": ["hoa", "fee", "association", "monthly", "dues"],
+    "expected_entities": ["HOA", "homeowners association"],
+    "category": "pricing"
+  },
+  {
+    "id": 13,
+    "query": "What amenities does the property have?",
+    "expected_keywords": ["amenities", "features", "pool", "garage", "backyard"],
+    "expected_entities": ["amenities", "features"],
+    "category": "features"
+  },
+  {
+    "id": 14,
+    "query": "What is the property tax amount?",
+    "expected_keywords": ["tax", "property tax", "annual", "$"],
+    "expected_entities": ["tax", "property tax"],
+    "category": "pricing"
+  },
+  {
+    "id": 15,
+    "query": "Is the property in a good school district?",
+    "expected_keywords": ["school", "district", "education", "rating"],
+    "expected_entities": ["school district", "education"],
+    "category": "amenities"
+  },
+  {
+    "id": 16,
+    "query": "What type of heating system does the property have?",
+    "expected_keywords": ["heating", "hvac", "furnace", "gas", "electric"],
+    "expected_entities": ["heating", "HVAC"],
+    "category": "features"
+  },
+  {
+    "id": 17,
+    "query": "Is there a hospital nearby?",
+    "expected_keywords": ["hospital", "medical", "health", "emergency", "mile"],
+    "expected_entities": ["hospital", "medical"],
+    "category": "amenities"
+  },
+  {
+    "id": 18,
+    "query": "What is the condition of the roof?",
+    "expected_keywords": ["roof", "shingle", "new", "replaced", "condition"],
+    "expected_entities": ["roof", "roofing"],
+    "category": "property_details"
+  },
+  {
+    "id": 19,
+    "query": "Does the property have a basement?",
+    "expected_keywords": ["basement", "finished", "unfinished", "storage"],
+    "expected_entities": ["basement"],
+    "category": "features"
+  },
+  {
+    "id": 20,
+    "query": "What is the neighborhood like?",
+    "expected_keywords": ["neighborhood", "community", "quiet", "safe", "family"],
+    "expected_entities": ["neighborhood", "community"],
+    "category": "location"
+  }
+]

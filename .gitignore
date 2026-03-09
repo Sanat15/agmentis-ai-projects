@@ -20,16 +20,16 @@ env/
 *.swp
 *.swo
 
-# Data files (keep folder structure, exclude actual data)
+# Data files (keep folder structure, exclude actual uploaded data)
 data/pdfs/*.pdf
 data/qdrant_db/*
 !data/pdfs/.gitkeep
 !data/qdrant_db/.gitkeep
+!results/.gitkeep
 
-# Reports and presentation (optional - remove these lines if you want to include them)
-# REPORT.tex
-# REPORT.md
-# PRESENTATION.md
+# Include evaluation results
+!results/*.json
+!results/*.md
 
 # OS
 .DS_Store

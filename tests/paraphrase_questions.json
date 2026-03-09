@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "original_query": "What is the total square footage of the property?",
+    "paraphrases": [
+      "How big is the property?",
+      "What's the size of the house?",
+      "Tell me the square footage",
+      "How many sq ft is the home?",
+      "Property size in square feet?"
+    ],
+    "expected_keywords": ["square feet", "sq ft", "sqft", "area", "2500", "2,500"]
+  },
+  {
+    "id": 2,
+    "original_query": "How many bedrooms does the property have?",
+    "paraphrases": [
+      "Number of bedrooms?",
+      "How many beds?",
+      "Bedroom count in the house?",
+      "Tell me about the bedrooms",
+      "How many sleeping rooms?"
+    ],
+    "expected_keywords": ["bedroom", "bedrooms", "bed", "3", "three"]
+  },
+  {
+    "id": 3,
+    "original_query": "What is the asking price?",
+    "paraphrases": [
+      "How much does it cost?",
+      "What's the price?",
+      "List price of the property?",
+      "How much are they asking?",
+      "Property cost?"
+    ],
+    "expected_keywords": ["$", "price", "cost", "asking", "450,000"]
+  },
+  {
+    "id": 4,
+    "original_query": "Does the property have a garage?",
+    "paraphrases": [
+      "Is there parking?",
+      "Garage included?",
+      "Where do I park my car?",
+      "Is there a carport?",
+      "Parking situation?"
+    ],
+    "expected_keywords": ["garage", "parking", "car", "driveway"]
+  },
+  {
+    "id": 5,
+    "original_query": "What year was the house built?",
+    "paraphrases": [
+      "When was it constructed?",
+      "Age of the property?",
+      "How old is the house?",
+      "Construction year?",
+      "When was the building made?"
+    ],
+    "expected_keywords": ["built", "year", "constructed", "19", "20"]
+  },
+  {
+    "id": 6,
+    "original_query": "What schools are near the property?",
+    "paraphrases": [
+      "Nearby schools?",
+      "Which schools are close by?",
+      "Schools in the area?",
+      "Educational facilities nearby?",
+      "Any good schools around?"
+    ],
+    "expected_keywords": ["school", "elementary", "high school", "education"]
+  },
+  {
+    "id": 7,
+    "original_query": "Is there a swimming pool?",
+    "paraphrases": [
+      "Does it have a pool?",
+      "Pool included?",
+      "Is there somewhere to swim?",
+      "Any pool on the property?",
+      "Swimming facilities?"
+    ],
+    "expected_keywords": ["pool", "swimming", "backyard"]
+  },
+  {
+    "id": 8,
+    "original_query": "What are the HOA fees?",
+    "paraphrases": [
+      "Monthly HOA cost?",
+      "Homeowners association fees?",
+      "HOA dues?",
+      "Association fees?",
+      "Monthly community fees?"
+    ],
+    "expected_keywords": ["hoa", "fee", "association", "monthly", "dues"]
+  }
+]
