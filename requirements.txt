@@ -40,3 +40,12 @@ httpx>=0.26.0
 # Utilities
 python-dotenv>=1.0.0
 numpy>=1.26.0
+
+# WebRTC & Real-time Communication
+aiortc>=1.8.0          # Python implementation of WebRTC and ORTC
+websockets>=12.0       # For the signaling server communication
+socketio[client]>=0.6.0 # If using Socket.io for signaling instead of raw WS
+
+# Signaling Server Dependencies (Python-based alternative/testing)
+python-socketio>=5.11.0
+aiohttp>=3.9.0
