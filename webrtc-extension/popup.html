@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WebRTC Demo</title>
+    <style>
+      body {
+        width: 300px;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+        background: #1a1a2e;
+        color: white;
+      }
+
+      h2 {
+        margin: 0 0 15px 0;
+        font-size: 16px;
+        color: #e94560;
+      }
+
+      button {
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: bold;
+      }
+
+      #startBtn {
+        background: #e94560;
+        color: white;
+      }
+
+      #stopBtn {
+        background: #444;
+        color: #aaa;
+        cursor: not-allowed;
+      }
+
+      #status {
+        margin-top: 15px;
+        padding: 10px;
+        border-radius: 6px;
+        background: #16213e;
+        font-size: 13px;
+        color: #aaa;
+        text-align: center;
+      }
+
+      /* Divider between the two sections */
+      .divider {
+        border: none;
+        border-top: 1px solid #333;
+        margin: 20px 0;
+      }
+
+      /* Input box for room ID */
+      input {
+        width: 100%;
+        padding: 9px;
+        margin: 5px 0;
+        border: none;
+        border-radius: 6px;
+        background: #16213e;
+        color: white;
+        font-size: 13px;
+        box-sizing: border-box;
+      }
+
+      input::placeholder {
+        color: #555;
+      }
+
+      #callBtn {
+        background: #4ecca3;
+        color: #1a1a2e;
+      }
+
+      #hangupBtn {
+        background: #444;
+        color: #aaa;
+        cursor: not-allowed;
+      }
+
+      #callStatus {
+        margin-top: 15px;
+        padding: 10px;
+        border-radius: 6px;
+        background: #16213e;
+        font-size: 13px;
+        color: #aaa;
+        text-align: center;
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <!-- SECTION 1 - Tab Capture (existing) -->
+    <h2>Tab Audio Capture</h2>
+    <button id="startBtn">Start Capturing</button>
+    <button id="stopBtn" disabled>Stop Capturing</button>
+    <div id="status">Not capturing</div>
+
+    <hr class="divider">
+
+    <!-- SECTION 2 - WebRTC Call (new) -->
+    <h2>WebRTC Call</h2>
+    <button id="callBtn">Open Call Window</button>
+    <button id="hangupBtn" style="display:none"></button>
+    <div id="callStatus">Click above to open call in a new tab</div>
+
+    <script src="popup.js"></script>
+
+  </body>
+</html>

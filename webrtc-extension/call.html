@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WebRTC Call</title>
+    <style>
+      body {
+        width: 400px;
+        margin: 40px auto;
+        font-family: Arial, sans-serif;
+        background: #1a1a2e;
+        color: white;
+        padding: 30px;
+        border-radius: 12px;
+      }
+
+      h2 {
+        color: #e94560;
+        margin: 0 0 20px 0;
+      }
+
+      input {
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0 10px 0;
+        border: none;
+        border-radius: 6px;
+        background: #16213e;
+        color: white;
+        font-size: 14px;
+        box-sizing: border-box;
+      }
+
+      input::placeholder { color: #555; }
+
+      button {
+        width: 100%;
+        padding: 12px;
+        margin: 5px 0;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: bold;
+      }
+
+      #callBtn  { background: #4ecca3; color: #1a1a2e; }
+      #hangupBtn { background: #444; color: #aaa; cursor: not-allowed; }
+
+      #callStatus {
+        margin-top: 15px;
+        padding: 12px;
+        border-radius: 6px;
+        background: #16213e;
+        font-size: 13px;
+        color: #aaa;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h2>WebRTC Call</h2>
+    <input id="roomId" type="text" placeholder="Enter Room ID (e.g. room1)" />
+    <button id="callBtn">Join / Start Call</button>
+    <button id="hangupBtn" disabled>Hang Up</button>
+    <div id="callStatus">Not in a call</div>
+    <audio id="remoteAudio" autoplay></audio>
+
+    <script src="call.js"></script>
+  </body>
+</html>
